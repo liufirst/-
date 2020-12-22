@@ -30,5 +30,6 @@
 |JS-CSS——HTML formatter|ctrl+s格式化代码|
 |Auto Rename tag|自动重命名配对的html标签|
 |css peek|追踪到样式|
-
+# 快捷键
+输入div，再按tab键，自动补全
 
